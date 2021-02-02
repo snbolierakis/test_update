@@ -37,7 +37,8 @@
                 "1234567890"
               ],
               "BoxQty": 1,
-              "UnitsPerBox": 20
+              "UnitsPerBox": 20,
+              "imgUrl": "https://www.delta.gr/wp-content/uploads/2017/04/1250%CE%A71080_new_fresh_milk_delta.jpg"
             },
             {
               "Id": "764847|0",
@@ -73,7 +74,8 @@
                 "5025322254301"
               ],
               "BoxQty": 3,
-              "UnitsPerBox": 10
+              "UnitsPerBox": 10,
+              "imgUrl": "https://www.delta.gr/wp-content/uploads/2020/07/blue.png"
             },
             {
               "Id": "764858|0",
@@ -109,7 +111,8 @@
                 "1234567890"
               ],
               "BoxQty": 2,
-              "UnitsPerBox": 9
+              "UnitsPerBox": 9,
+              "imgUrl": ""
             },
             {
               "Id": "757174|0",
