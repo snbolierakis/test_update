@@ -180,38 +180,6 @@
                 "ValidBarcodes": [
                  
                 ]
-            },
-            {
-                "Id": "serial_novalidation_codes_multisize",
-                "Aisle": "Α22",
-                "Bay": 0,
-                "Layer": 0,
-                "RelativeBay": 0,
-                "ColumnsPerLayer": [
-                    1
-                ],
-                "MatrixLayer": 0,
-                "MatrixColumn": 0,
-                "DistanceFromFloor": 0,
-                "DistanceFromMarker": 0,
-                "Width": 0,
-                "Height": 0,
-                "LocAddress": "1.012.3",
-                "ItemCode": "210525",
-                "ItmDescr": "ΣΕΙΡΙΑΚΟ ΣΚΑΝΑΡΙΣΜΑ ΧΩΡΙΣ ΚΩΔΙΚΟΥΣ ΕΠΙΒ. ΚΙΒ+ΤΕΜ",
-                "SerialScanRequired": true,
-                "IsDual": false,
-                "SerialLength": "",
-                "SerialPrefix": "",
-                "BoxQty": 4,
-                "Qty": 4,
-                "TotalQty": 44,
-                "UnitsPerBox": 5,
-                "ImgUrl": "http://mail.optimum.gr/smartflex-delta/delta.jfif",
-                "LutDescr": "ΚΙΒ",
-                "ValidBarcodes": [
-                 
-                ]
             }
           ]
 }
