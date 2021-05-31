@@ -39,7 +39,7 @@
               "BoxQty": 1,
               "TotalQty": 22,
               "UnitsPerBox": 20,
-              "imgUrl": "https://www.delta.gr/wp-content/uploads/2017/04/1250%CE%A71080_new_fresh_milk_delta.jpg"
+              "ImgUrl": "https://www.delta.gr/wp-content/uploads/2017/04/1250%CE%A71080_new_fresh_milk_delta.jpg"
             },
             {
               "Id": "noserial_error_size",
@@ -77,7 +77,7 @@
               "BoxQty": 3,
               "TotalQty": 33,
               "UnitsPerBox": 10,
-              "imgUrl": "https://www.delta.gr/wp-content/uploads/2020/07/blue.png"
+              "ImgUrl": "https://www.delta.gr/wp-content/uploads/2020/07/blue.png"
             },
             {
               "Id": "noserial_novalidation_codes",
@@ -113,7 +113,7 @@
               "BoxQty": 2,
               "TotalQty": 25,
               "UnitsPerBox": 9,
-              "imgUrl": ""
+              "ImgUrl": ""
             },
             {
                 "Id": "serial_normal",
