@@ -137,12 +137,12 @@
                 "IsDual": false,
                 "SerialLength": "",
                 "SerialPrefix": "",
-                "BoxQty": 4,
-                "Qty": 0,
+                "BoxQty": 0,
+                "Qty": 4,
                 "TotalQty": 4,
                 "UnitsPerBox": 1,
                 "ImgUrl": "http://mail.optimum.gr/smartflex-delta/delta.jfif",
-                "LutDescr": "ΚΙΒ",
+                "LutDescr": "TMX",
                 "ValidBarcodes": [
                   "0123456789",
                   "1234567890",
@@ -176,7 +176,7 @@
                 "TotalQty": 3,
                 "UnitsPerBox": 1,
                 "ImgUrl": "http://mail.optimum.gr/smartflex-delta/delta.jfif",
-                "LutDescr": "ΚΙΒ",
+                "LutDescr": "TMX",
                 "ValidBarcodes": [
                  
                 ]
